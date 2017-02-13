@@ -1,0 +1,9 @@
+Write down briefly what you m and n did you tested and what did you observe from that combination of m and n?
+
+When I first saw the assignment, I counted how many branches were being drawn. Since 7 branches were being drawn I figured that m was the numberOfBranches parameter. As I read more for the short assignment, I realized that the depth of the recursion, or order, was 5 therefore n was 5. 
+
+I tested various different m and n values and from my observations, the depth of the recursion takes less time to loop through than the actual amount of lines you draw.
+
+Write down why do you think the example drawing I showed you is not symmetric? We will not grade the correctness of your answer, but you should offer you explanation.
+
+The drawing example, and mine, aren't symmetric because of the order and direction of the branches being drawn. In the example, the branches are drawn from left to right so when the center branch is drawn it isn't symmetric. The wway to draw it symmetrically would be the left branches, then the right branches, then the middle branch. 

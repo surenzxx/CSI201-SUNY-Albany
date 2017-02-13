@@ -1,0 +1,57 @@
+Program 1: HelloWorld.java
+
+1) Describe what happens if in the code above, you omit:
+
+a. If you remove "public" the code won't run.
+b. If you remove "static" the code won't run.
+c. If you remove "void" the code won't run.
+d. If you remove "args" the code won't run.
+
+2) Describe what happens in code above, you misspell (by, say, omitting the second letter):
+
+a. If you mispell "public" the code won't run.
+b. If you mispell "static" the code won't run.
+c. If you mispell "void" the code won't run.
+d. If you mispell "args" the code won't run.
+
+3) What is System.out.println("Hello, World");
+c. Method call.
+
+The program will not run. There is a missing "String[] args" on the second line of the code.
+
+The program will not run. The "public static void main(String [] args)" line is entirely missing. StdDraw.filleCircle(0.5,0.5,0.1) is a method call.
+
+The program will run. It draws a filled circle close to the X axis farther on the Y axis. If you change the function to be StdDraw.filleCircle(0.6, 0.3, 0.1) then the circle is farther on the x-axis and closer on the y-axis.
+
+a, b, and t are integers.
+The first line declares 1 to be the value of a variable a, which is an integer type.
+The second line declares 4 to be the value of a variable b, which is also an integer type.
+The third line declares the value of variable a to a new integer type variable t. 
+The fourth line sets the value of the t variable to the b variable.
+The fifth line sets the value of the variable b to the a variable.
+The program prints out one three times.
+
+a and b are int values, simplify: (!(a < b) && !(a > b)); (a ==b)
+
+System.out.println(15/6); will print 2. This is because it's store as an integer not a double.
+
+A. 2bc
+B. 5bc
+C. 5bc
+D. bc5
+E. bc23
+
+E. double force = (G * mass1 * mass2) / (r * r);
+
+N is 0
+M is 987654321
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610
+
+The program will not run, the variable sum is not defined. If you want it to work you need to declare int outside of the while loop first.
+
+If the value of "x" is greater than 0 it prints "positive"
+ 
+The code doesn't run because it's missing the curly braces.
+
+The program prints all the even numbers between 1 and 10 but prints 1 by mistake. 
